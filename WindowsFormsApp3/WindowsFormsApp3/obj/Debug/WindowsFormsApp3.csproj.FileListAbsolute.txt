@@ -1,0 +1,15 @@
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\RestSharp.dll
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\RestSharp.xml
+C:\Users\MikhaGirsang\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
