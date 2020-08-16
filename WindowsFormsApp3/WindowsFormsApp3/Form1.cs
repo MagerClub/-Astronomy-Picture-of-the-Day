@@ -42,7 +42,7 @@ namespace WindowsFormsApp3
             return datetime;
         }
 
-        public void getdatanow()
+        public string getdatanow()
         {
             string datetime = get_datetime();
             var client = new RestClient("https://api.nasa.gov/planetary/apod?hd=True&api_key=DEMO_KEY&date="+datetime);
@@ -53,12 +53,15 @@ namespace WindowsFormsApp3
             dynamic data = JObject.Parse(response.Content);
             string url = data.url;
             string explain = data.explanation;
+            string title = data.title;
             pictureBox1.Load(url);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             label2.Text = explain;
+            label6.Text = title;
+            return title;
         }
 
-        public void getdatapast()
+        public string getdatapast()
         {
             string datetime = get_dateyesterday();
             var client = new RestClient("https://api.nasa.gov/planetary/apod?hd=True&api_key=DEMO_KEY&date=" + datetime);
@@ -69,9 +72,12 @@ namespace WindowsFormsApp3
             dynamic data = JObject.Parse(response.Content);
             string url = data.url;
             string explain = data.explanation;
+            string title = data.title;
             pictureBox1.Load(url);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             label2.Text = explain;
+            label6.Text = title;
+            return title;
         }
 
         private void panel2_MouseEnter(object sender, EventArgs e)
